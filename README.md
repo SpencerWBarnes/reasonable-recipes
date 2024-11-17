@@ -1,5 +1,5 @@
 # reasonable-recipes
-A Minecraft datapack adding various recipes to make some items more accessible.
+A Minecraft datapack adding various recipes to make some items craftable or more accessible.
 
 Some items are rather difficult to acquire, either not being craftable at all or requiring expensive resources. This results in some decoration techniques going unused or certain mechanics being inviable.
 
