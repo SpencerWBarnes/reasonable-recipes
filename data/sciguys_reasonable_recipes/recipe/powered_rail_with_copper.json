@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "X X",
+      "X#X",
+      "XRX"
+    ],
+    "key": {
+      "#": "minecraft:stick",
+      "R": "minecraft:redstone",
+      "X": "minecraft:copper_ingot"
+    },
+    "result": {
+      "id": "minecraft:powered_rail",
+      "count": 2
+    }
+  }
+  

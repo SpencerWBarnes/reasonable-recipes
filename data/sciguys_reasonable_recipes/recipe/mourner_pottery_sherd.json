@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "!@!",
+    "!#!",
+    "!!!"
+  ],
+  "key": {
+    "!": "minecraft:diamond",
+    "@": "minecraft:brick",
+    "#": "minecraft:sculk_shrieker"
+  },
+  "result": {
+    "id": "minecraft:mourner_pottery_sherd"
+  }
+}

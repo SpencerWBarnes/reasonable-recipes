@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "pattern": [
+      "XSX",
+      "X#X",
+      "XSX"
+    ],
+    "key": {
+      "#": "minecraft:redstone_torch",
+      "S": "minecraft:stick",
+      "X": "minecraft:copper_ingot"
+    },
+    "result": {
+      "id": "minecraft:activator_rail",
+      "count": 3
+    }
+  }
+  

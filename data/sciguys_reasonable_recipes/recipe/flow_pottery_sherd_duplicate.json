@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      "minecraft:brick",
+      "minecraft:flow_pottery_sherd"
+    ],
+    "result": {
+      "id": "minecraft:flow_pottery_sherd",
+      "count": 2
+    }
+  }
+  

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "!@!",
+    "!#!",
+    "!!!"
+  ],
+  "key": {
+    "!": "minecraft:diamond",
+    "@": "minecraft:brick",
+    "#": "minecraft:rotten_flesh"
+  },
+  "result": {
+    "id": "minecraft:arms_up_pottery_sherd"
+  }
+}

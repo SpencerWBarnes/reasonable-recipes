@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      "minecraft:brick",
+      "minecraft:howl_pottery_sherd"
+    ],
+    "result": {
+      "id": "minecraft:howl_pottery_sherd",
+      "count": 2
+    }
+  }
+  
