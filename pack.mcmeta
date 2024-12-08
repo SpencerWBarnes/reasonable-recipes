@@ -1,6 +1,7 @@
 {
     "pack": {
+        "description": "SciGuy's Reasonable Recipes: A personal list of new recipes or recipe variants to make some items craftable or simply more accessible",
         "pack_format": 57,
-        "description": "SciGuy's Reasonable Recipes: A personal list of new recipes or recipe variants to make some items craftable or simply more accessible"
+        "supported_formats": [48, 61]
     }
 }
