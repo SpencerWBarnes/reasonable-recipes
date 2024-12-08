@@ -86,6 +86,23 @@ An item that many would eventually accrue after enough caving or aquifer diving.
 
 </details>
 
+---
+
+### Sand
+
+Sand and glass are central to many decorations and recipes. yet are one of the only non-renewable natural blocks. Sand is largely quartz and between gravel and clay in coarseness, so a vanilla style recipe can be extrapolated from established recipes like coarse dirt, diorite, and granite.
+
+**The fix:** A diorite copy-cat recipe reflecting natural sand processes.
+
+<details>
+<summary>Recipe details and demos</summary>
+
+> A recipe reflecting the breaking down of gravel into sand.
+>
+> ![Sand recipe forming a two by two square with gravel in the top left and bottom right corners, and quartz in the top right and bottom left corners, resulting in two sand blocks](/static/sand.png)
+
+</details>
+
 <br>
 
 # Recipe Variants

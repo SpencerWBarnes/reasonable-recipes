@@ -1,0 +1,67 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_ingredient": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:angler_pottery_sherd",
+              "minecraft:archer_pottery_sherd",
+              "minecraft:arms_up_pottery_sherd",
+              "minecraft:blade_pottery_sherd",
+              "minecraft:brewer_pottery_sherd",
+              "minecraft:burn_pottery_sherd",
+              "minecraft:danger_pottery_sherd",
+              "minecraft:explorer_pottery_sherd",
+              "minecraft:flow_pottery_sherd",
+              "minecraft:friend_pottery_sherd",
+              "minecraft:guster_pottery_sherd",
+              "minecraft:heart_pottery_sherd",
+              "minecraft:heartbreak_pottery_sherd",
+              "minecraft:howl_pottery_sherd",
+              "minecraft:miner_pottery_sherd",
+              "minecraft:mourner_pottery_sherd",
+              "minecraft:plenty_pottery_sherd",
+              "minecraft:prize_pottery_sherd",
+              "minecraft:scrape_pottery_sherd",
+              "minecraft:sheaf_pottery_sherd",
+              "minecraft:shelter_pottery_sherd",
+              "minecraft:skull_pottery_sherd",
+              "minecraft:snort_pottery_sherd",
+              "minecraft:brick"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "sciguys_reasonable_recipes:burn_pottery_sherd_duplicate",
+      "sciguys_reasonable_recipes:flow_pottery_sherd_duplicate",
+      "sciguys_reasonable_recipes:howl_pottery_sherd_duplicate",
+      "sciguys_reasonable_recipes:blade_pottery_sherd_duplicate",
+      "sciguys_reasonable_recipes:heart_pottery_sherd_duplicate",
+      "sciguys_reasonable_recipes:miner_pottery_sherd_duplicate",
+      "sciguys_reasonable_recipes:prize_pottery_sherd_duplicate",
+      "sciguys_reasonable_recipes:sheaf_pottery_sherd_duplicate",
+      "sciguys_reasonable_recipes:skull_pottery_sherd_duplicate",
+      "sciguys_reasonable_recipes:snort_pottery_sherd_duplicate",
+      "sciguys_reasonable_recipes:danger_pottery_sherd_duplicate",
+      "sciguys_reasonable_recipes:angler_pottery_sherd_duplicate",
+      "sciguys_reasonable_recipes:archer_pottery_sherd_duplicate",
+      "sciguys_reasonable_recipes:brewer_pottery_sherd_duplicate",
+      "sciguys_reasonable_recipes:friend_pottery_sherd_duplicate",
+      "sciguys_reasonable_recipes:guster_pottery_sherd_duplicate",
+      "sciguys_reasonable_recipes:plenty_pottery_sherd_duplicate",
+      "sciguys_reasonable_recipes:scrape_pottery_sherd_duplicate",
+      "sciguys_reasonable_recipes:arms_up_pottery_sherd_duplicate",
+      "sciguys_reasonable_recipes:mourner_pottery_sherd_duplicate",
+      "sciguys_reasonable_recipes:shelter_pottery_sherd_duplicate",
+      "sciguys_reasonable_recipes:explorer_pottery_sherd_duplicate",
+      "sciguys_reasonable_recipes:heartbreak_pottery_sherd_duplicate"
+    ]
+  }
+}

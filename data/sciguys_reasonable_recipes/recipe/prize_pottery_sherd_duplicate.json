@@ -1,5 +1,6 @@
 {
     "type": "minecraft:crafting_shapeless",
+    "group": "sherd_duplicate",
     "ingredients": [
       "minecraft:brick",
       "minecraft:prize_pottery_sherd"

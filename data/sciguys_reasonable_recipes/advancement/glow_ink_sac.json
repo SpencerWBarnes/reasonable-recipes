@@ -1,0 +1,27 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_ingredients": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:ink_sac"
+          },
+          {
+            "items": [
+              "minecraft:glow_berries",
+              "minecraft:glow_lichen",
+              "minecraft:glowstone_dust"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "sciguys_reasonable_recipes:glow_ink_sac"
+    ]
+  }
+}

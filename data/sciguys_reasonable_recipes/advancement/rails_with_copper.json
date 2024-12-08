@@ -1,0 +1,30 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_ingredient": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:copper_ingot",
+              "minecraft:stick",
+              "minecraft:rail",
+              "minecraft:powered_rail",
+              "minecraft:detector_rail",
+              "minecraft:activator_rail"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "sciguys_reasonable_recipes:rail_with_copper",
+      "sciguys_reasonable_recipes:powered_rail_with_copper",
+      "sciguys_reasonable_recipes:detector_rail_with_copper",
+      "sciguys_reasonable_recipes:activator_rail_with_copper"
+    ]
+  }
+}

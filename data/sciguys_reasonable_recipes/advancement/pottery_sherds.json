@@ -1,0 +1,88 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_ingredient": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:diamond",
+              "minecraft:brick",
+              "minecraft:fishing_rod",
+              "minecraft:bow",
+              "minecraft:rotten_flesh",
+              "minecraft:wooden_sword",
+              "minecraft:stone_sword",
+              "minecraft:iron_sword",
+              "minecraft:golden_sword",
+              "minecraft:diamond_sword",
+              "minecraft:glass_bottle",
+              "minecraft:potion",
+              "minecraft:campfire",
+              "minecraft:gunpowder",
+              "minecraft:map",
+              "minecraft:wind_charge",
+              "minecraft:poppy",
+              "minecraft:breeze_rod",
+              "minecraft:baked_potato",
+              "minecraft:poisonous_potato",
+              "minecraft:wolf_armor",
+              "minecraft:wooden_pickaxe",
+              "minecraft:stone_pickaxe",
+              "minecraft:iron_pickaxe",
+              "minecraft:golden_pickaxe",
+              "minecraft:diamond_pickaxe",
+              "minecraft:sculk_shrieker",
+              "minecraft:chest",
+              "minecraft:emerald",
+              "minecraft:wooden_axe",
+              "minecraft:stone_axe",
+              "minecraft:iron_axe",
+              "minecraft:golden_axe",
+              "minecraft:diamond_axe",
+              "minecraft:wheat",
+              "minecraft:spruce_sapling",
+              "minecraft:pale_oak_sapling",
+              "minecraft:oak_sapling",
+              "minecraft:jungle_sapling",
+              "minecraft:dark_oak_sapling",
+              "minecraft:cherry_sapling",
+              "minecraft:birch_sapling",
+              "minecraft:acacia_sapling",
+              "minecraft:bone",
+              "minecraft:moss_block"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "sciguys_reasonable_recipes:burn_pottery_sherd",
+      "sciguys_reasonable_recipes:flow_pottery_sherd",
+      "sciguys_reasonable_recipes:howl_pottery_sherd",
+      "sciguys_reasonable_recipes:blade_pottery_sherd",
+      "sciguys_reasonable_recipes:heart_pottery_sherd",
+      "sciguys_reasonable_recipes:miner_pottery_sherd",
+      "sciguys_reasonable_recipes:prize_pottery_sherd",
+      "sciguys_reasonable_recipes:sheaf_pottery_sherd",
+      "sciguys_reasonable_recipes:skull_pottery_sherd",
+      "sciguys_reasonable_recipes:snort_pottery_sherd",
+      "sciguys_reasonable_recipes:danger_pottery_sherd",
+      "sciguys_reasonable_recipes:angler_pottery_sherd",
+      "sciguys_reasonable_recipes:archer_pottery_sherd",
+      "sciguys_reasonable_recipes:brewer_pottery_sherd",
+      "sciguys_reasonable_recipes:friend_pottery_sherd",
+      "sciguys_reasonable_recipes:guster_pottery_sherd",
+      "sciguys_reasonable_recipes:plenty_pottery_sherd",
+      "sciguys_reasonable_recipes:scrape_pottery_sherd",
+      "sciguys_reasonable_recipes:arms_up_pottery_sherd",
+      "sciguys_reasonable_recipes:mourner_pottery_sherd",
+      "sciguys_reasonable_recipes:shelter_pottery_sherd",
+      "sciguys_reasonable_recipes:explorer_pottery_sherd",
+      "sciguys_reasonable_recipes:heartbreak_pottery_sherd"
+    ]
+  }
+}
