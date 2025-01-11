@@ -153,6 +153,8 @@ These items consume slimeballs. While less of an issue with the addition of the 
 
 Lodestones are a fun way of navigating to keep players immersed without using coordinates. A netherite ingot?! Does _anyone_ any these things with that sort of cost? Using a compass in place of a netherite ingot leans into the lore of syncing a compass to point towards a lodestone.
 
+> Ha! Mojang agreed with me and as of Snapshot 25w02a updated the recipe to be even cheaper, with an iron ingot. Leaving this recipe as is until the new recipe is officially released, then I will remove it.
+
 **The fix:** Add a recipe that uses a compass.
 
 <details>
