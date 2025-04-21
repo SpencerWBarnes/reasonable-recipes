@@ -107,6 +107,23 @@ Sand and glass are central to many decorations and recipes. yet are one of the o
 
 </details>
 
+---
+
+### Calcite
+
+Calcite is a fairly rare block, only naturally occurring around geodes and in veins at high elevation. However, this block is useful for builders for its white color and semi-rough texture. In reality, the white layer in amethyst is quartz growth on the geode's outer layer ([ref](https://youtu.be/6kfqxxnhv3A?si=g_-P2umVvtpEahT3&t=246)).
+
+**The fix:** A diorite copy-cat recipe reflecting quartz growth on smooth basalt.
+
+<details>
+<summary>Recipe details and demos</summary>
+
+> A recipe reflecting the growth on quartz on smooth basalt.
+>
+> ![Calcite recipe forming a two by two square with smooth basalt in the top left and bottom right corners, and quartz in the top right and bottom left corners, resulting in two calcite blocks](/static/calcite.png)
+
+</details>
+
 <br>
 
 # Recipe Variants
