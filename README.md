@@ -5,6 +5,10 @@ Some items are rather difficult to acquire, either not being craftable at all or
 
 > **NOTE:** This datapack is solely a personal project. The recipes contained do not necessarily relate to each other, and this datapack will not be reliably maintained.
 
+## Supported verions
+
+**1.21.1** - **1.21.5**
+
 # Non-craftable Recipes
 
 ### Pottery sherds
